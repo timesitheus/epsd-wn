@@ -1,0 +1,3999 @@
+@project etcsri
+@lang sux
+@name etcsri, sux
+
+#inote this is testing something
+#inote this is testing it some more
+
+@letter A
+
+@entry a [arm] N
+@sense N arm		@wn=122334=arm
+@end entry
+
+@entry a [time] N
+@sense N (point of) time
+@end entry
+
+@entry a aŋ [command] V/t
+@sense V/t command, to instruct
+@end entry
+
+@entry a e [rear] V/t
+@sense V/t rear, bring up (a child), to take care of
+@end entry
+
+@entry a [water] N
+@sense N water
+@sense N semen
+@end entry
+
+@entry aba [who?] N
+@sense N who?
+@end entry
+
+@entry abgal [sage] N
+@sense N sage, priest
+@end entry
+
+@entry a dug [irrigate] V/t
+@sense V/t irrigate (from canal water)
+@end entry
+
+@entry a ru [dedicate] V/t
+@sense V/t dedicate
+@end entry
+
+@entry a šum [give power] V/t
+@sense V/t give power
+@end entry
+
+@entry ab [cow] N
+@sense N cow
+@end entry
+
+@entry abba [father] N
+@sense N father
+@sense N an official
+@end entry
+
+@entry ABBA.IGI [unmng] N
+@sense N (unknown meaning) 
+@end entry
+
+@entry abri [material] N
+@sense N a raw material
+@end entry
+
+@entry absin [furrow] N
+@sense N furrow
+@end entry
+
+@entry abšag [sea-midst] N
+@sense N center of the sea
+@end entry
+
+@entry abula [gate] N
+@sense N gate
+@end entry
+
+@entry abzu [water] N
+@sense N water
+@end entry
+
+@entry ad [log] N
+@sense N log
+@end entry
+
+@entry adda [corpse] N
+@sense N corpse
+@end entry
+
+@entry adda [father] N
+@sense N father
+@end entry
+
+@entry addir [hire] N
+@sense N hire, wage, ferry toll
+@end entry
+
+@entry adus [plank] N
+@sense N plank, beam, supporting structure, wall(?)
+@end entry
+
+@entry aga [rear] N
+@sense N rear
+@end entry
+
+@entry agakar [conqueror] N
+@sense N conqueror
+@end entry
+
+@entry agakar sig [defeat] V/t
+@sense V/t to defeat someone/something (= L2)
+@end entry
+
+@entry agaʾus [soldier] N
+@sense N a soldier
+@end entry
+
+@entry agrig [steward] N
+@sense N steward
+@end entry
+
+@entry aŋ [measure] V/t 
+@sense V/t measure
+@end entry
+
+@entry aŋal [strong] V/i
+@sense V/i (to be) strong
+@end entry
+
+@entry ak [do] V/t
+@sense V/t do
+@end entry
+
+@entry al [hoe] N
+@sense N hoe
+@end entry
+
+@entry al [cvne] N
+@sense N (compound verb nominal element)
+@end entry
+
+@entry al dug [desire] V/t
+@sense V/t desire
+@end entry
+
+@entry ala [drum] N
+@sense N a wooden drum
+@end entry
+
+@entry alan [statue] N
+@sense N statue
+@end entry
+
+@entry alim [bull] N
+@sense N bison, heavy, important
+@end entry
+
+@entry am [bull] N
+@sense N wild bull
+@end entry
+
+@entry ama [mother] N
+@sense N mother
+@end entry
+
+@entry amašagan [mother] N
+@sense N bearing mother (human and animal) 
+@end entry
+
+@entry amar [young] N
+@sense N young
+@end entry
+
+@entry ambar [reed-bed] N
+@sense N reed-bed, marsh
+@end entry
+
+@entry amargi [reversion] N
+@sense N reversion to a previous state
+@end entry
+
+@entry amaru [flood] N
+@sense N flood
+@end entry
+
+@entry amaš [sheepfold] N 
+@sense N sheepfold
+@end entry
+
+@entry amaʾatud [slave] N
+@sense N slave
+@end entry
+
+@entry amaʾera [mourner] N
+@sense N mourner
+@end entry
+
+@entry amuš [unmng] N 
+@sense N a type of irrigation canal
+@end entry
+
+@entry an [sky] N
+@sense N sky, heaven
+@end entry
+
+@entry anbarkar [mid-day] N
+@sense N mid-day, noon
+@end entry
+
+@entry andul [shade] N
+@sense N shade
+@sense N protector
+@end entry
+
+@entry ane [he] IP
+@sense IP she, he
+@end entry
+
+@entry annak [metal] N
+@sense N tin or lead
+@end entry
+
+@entry anšar [heaven] N
+@sense N the entirety of heaven
+@end entry
+
+@entry anše [equid] N
+@sense N equid
+@end entry
+
+@entry anubda [quarter] N
+@sense N a cosmographic or geographic term, quarter (of the universe)
+@end entry
+
+@entry anzag [horizon] N
+@sense N horizon, border of heaven
+@end entry
+
+@entry anzud [eagle] N
+@sense N a mythological eagle
+@end entry 
+
+@entry ara [grind] V/t
+@sense V/t grind
+@end entry
+
+@entry arad [slave] N
+@sense N slave, servant
+@end entry
+
+@entry arazu [supplication] N
+@sense N supplication
+@end entry
+
+@entry argibil [structure] N
+@sense N a wooden or bronze structure
+@end entry
+
+@entry arhuš [womb] N
+@sense N womb
+@end entry
+
+@entry asal [poplar] N
+@sense N poplar
+@end entry
+
+@entry asi [strap] N
+@sense N strap
+@end entry
+
+@entry aš [curse] N
+@sense N curse
+@end entry
+
+@entry aš [one] NU
+@sense NU one
+@end entry
+
+@entry aš [six] NU
+@sense NU six
+@end entry
+
+@entry ašag [field] N
+@sense N field
+@end entry
+
+@entry atah [helper] N
+@sense N helper
+@end entry
+
+@entry atuku [powerful] AJ
+@sense AJ powerful, able-bodied
+@end entry
+
+@entry aya [father] N
+@sense N father
+@end entry
+
+@entry azig [violence] N
+@sense N violence
+@end entry
+
+@entry azlag [fuller] N
+@sense N fuller
+@end entry
+
+@entry azu [doctor] N
+@sense N doctor
+@end entry
+
+@entry aʾabak [sea] N
+@sense N sea
+@end entry
+
+@entry aʾan [spadix] N
+@sense N spadix
+@end entry
+
+@letter B
+
+@entry ba [allot] V/t
+@sense V/t allot
+@end entry
+
+@entry babbar [white] V/i
+@sense V/i (to be) white
+@end entry
+
+@entry bad [open] V/i
+@sense V/i (to be) remote, open
+@sense V/t to open
+@end entry
+
+@entry bad [wall] N
+@sense N wall, fortification
+@end entry
+
+@entry bal [dig] V/t
+@sense V/t dig
+@end entry
+
+@entry bala [turn] V/t
+@sense V/t turn, rotate, to change, to revoke
+@sense V/i cross (something = L2)
+@sense N reign, rotation, term of office
+@end entry
+
+@entry balaŋ [instrument] N
+@sense N drum
+@end entry
+
+@entry banda [junior] V/i
+@sense V/i (to be) junior
+@end entry
+
+@entry banšur [table] N
+@sense N table
+@end entry
+
+@entry bar [cvve] V/t
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry bar [outside] N
+@sense N outside, behind
+@sense N fleece
+@sense PRP because (bar NP=GEN=L1/TERM)
+@end entry
+
+@entry barag [dais] N
+@sense N dais
+@end entry
+
+@entry baragsiga [shrine] N
+@sense N shrine
+@sense N a low socle for cultic purposes, a pedestal, an altar
+@end entry
+
+@entry barag [spread] V/t
+@sense V/t spread out
+@end entry
+
+@entry bardul [garment] N
+@sense N a garment, fleece
+@end entry
+
+@entry BILGIšuš [unmng] N
+@sense N unmng
+@end entry
+
+@entry biluda [rituals] N
+@sense N rituals
+@end entry
+
+@entry birig [sneer] V/t
+@sense V/t sneer at, lift (nose, lip), contract oneself, roll up
+@end entry
+
+@entry bisaŋ [basket] N
+@sense N frame
+@end entry
+
+@entry bisaŋdubak [archivist] N
+@sense N archivist
+@end entry
+
+@entry bul [blow] V/t
+@sense V/t blow
+@end entry
+
+@entry bulug [needle] N
+@sense N needle, stake, boundary-marker
+@end entry
+
+@entry bur [bowl] N
+@sense N bowl
+@end entry
+
+@entry bur [tear] V/t
+@sense V/t tear
+@end entry
+
+@entry bursaŋ [bowl] N
+@sense N a vessel
+@end entry
+
+@entry burusig [bird] N
+@sense N a bird
+@end entry
+
+@letter D
+
+@entry da [line] N
+@sense N line, edge, side
+@end entry
+
+@entry dab [seize] V/t
+@sense V/t to seize, to take, to hold
+@end entry
+
+@entry dab [go around] V/i
+@sense V/i to go around, encircle, to surround something (= L3)
+@end entry 
+
+@entry dabariri [liar] N
+@sense N trickster?
+@end entry
+
+@entry dadag [bright] V/i
+@sense V/i (to be) bright
+@end entry
+
+@entry dag [demolish] V/t
+@sense V/t to demolish
+@end entry
+
+@entry dag [line] N
+@sense N line, side, edge
+@end entry
+
+@entry dag [leave] V/i
+@sense V/i to leave, to go away
+@end entry
+
+@entry daŋal [wide] V/i
+@sense V/i (to be) wide
+@sense V/t extend
+@end entry
+
+@entry dalla [bright] V/i
+@sense V/i (to be) bright
+@end entry
+
+@entry dam [spouse] N
+@sense N spouse
+@end entry
+
+@entry damgar [merchant] N
+@sense N merchant
+@end entry
+
+@entry damgargal [merchant] N
+@sense N leading merchant
+@end entry
+
+@entry damhara [battle] N
+@sense N battle
+@end entry
+
+@entry dana [unit] N
+@sense N a unit of length, double-hour (distance), double-mile
+@end entry
+
+@entry dar [split] V/t
+@sense V/t to split
+@end entry
+
+@entry dari [eternal] V/i
+@sense V/i eternal
+@end entry
+
+@entry de [bring] V/t
+@sense V/t to bring
+@end entry
+
+@entry de [pour] V/t
+@sense V/t pour
+@end entry
+
+@entry deg [collect] V/t
+@sense V/t to take, to gather up, glean, to tear out, to collect, pick up
+@end entry
+
+@entry di kud [judge] V/t
+@sense V/t judge
+@end entry
+
+@entry dib [pass] V/i
+@sense V/i to pass, to cross over
+@end entry
+
+@entry did [lawsuit] N
+@sense N lawsuit
+@sense N decision
+@end entry
+
+@entry didila [smaller] V/i
+@sense V/i (to be) smaller
+@end entry
+
+@entry diŋir [deity] N
+@sense N deity, personal god
+@end entry
+
+@entry dikud [judge] N
+@sense N judge
+@end entry
+
+@entry dikud [judgement] N
+@sense N judgement
+@end entry
+
+@entry dili [single] V/i
+@sense V/i (to be) single, unique, sole
+@end entry
+
+@entry dim [post] N
+@sense N post, pillar, pole
+@end entry
+
+@entry dim [create] V/t
+@sense V/t create
+@end entry
+
+@entry dirig [exceed] V/t
+@sense V/t create
+@end entry
+
+@entry diš [one] NU
+@sense NU one
+@end entry
+
+@entry du [all] V/i
+@sense V/i all
+@end entry
+
+@entry du [build] V/t
+@sense V/t to build
+@sense V/t to erect (a stela)
+@sense V/i to hold, to keep in custody, to detain 
+@end entry
+
+@entry du [push] V/t
+@sense V/t push, thrust, gore
+@end entry
+
+@entry du [suitable] V/i
+@sense V/i (to be) fitting, suitable
+@end entry
+
+@entry du [spread] V/t
+@sense V/t spread
+@end entry
+
+@entry du [play] V/t
+@sense V/t to play (a musical instrument)
+@end entry
+
+@entry dub [go around] V/t
+@sense V/t go around, encircle, turn
+@end entry
+
+@entry dub [heap] V/t
+@sense V/t to strew, to heap up, pile, pour, to whirl up (a duststorm)
+@end entry
+
+@entry dub [tablet] N
+@sense N tablet
+@end entry
+
+@entry dub [knee] N
+@sense N knee
+@end entry
+
+@entry dub [tremble] V/i
+@sense V/i to tremble
+@end entry
+
+@entry dubsar [scribe] N
+@sense N scribe
+@end entry
+
+@entry dubšen [chest] N
+@sense N chest
+@end entry
+
+@entry dud [mound] N
+@sense N (ruin) mound
+@end entry
+
+@entry dug [good] V/i
+@sense V/i good
+@sense N good
+@end entry
+
+@entry dug [pot] N
+@sense N (clay) pot
+@end entry
+
+@entry dug [speak] V/t
+@sense V/t speak
+@end entry
+
+@entry dugud [heavy] V/i
+@sense V/i (to be) heavy
+@end entry
+
+@entry dul [cover] V/i
+@sense V/i cover
+@end entry
+
+@entry duh [loosen] V/t
+@sense V/t loosen, release
+@end entry
+
+@entry dumu [child] N
+@sense N child
+@sense N grandchild
+@sense N citizen
+@end entry
+
+@entry dumudaba [worker] N
+@sense N an agricultural worker
+@end entry
+
+@entry dumu.KA [relation] N
+@sense N a kinship term, descendant
+@end entry
+
+@entry dumumunus [daughter] N
+@sense N daughter
+@end entry
+
+@entry dumunita [son] N
+@sense N son
+@end entry
+
+@entry dumusaŋ [first-born] N
+@sense N first-born
+@end entry
+
+@entry dun [dig] V/t
+@sense V/t dig
+@end entry
+
+@entry dupsik [basket] N
+@sense N basket
+@end entry
+
+@entry dur [ax] N
+@sense N ax
+@end entry
+
+@entry dur [donkey] N
+@sense N donkey
+@end entry
+
+@entry durallu [ax] N
+@sense N an ax
+@end entry
+
+@entry durŋar [chair] N
+@sense N chair
+@end entry
+
+@entry duru [wet] V/i
+@sense V/i (to be) wet, irrigated, damp, fresh
+@end entry
+
+@entry dusa [friend] N
+@sense N friend, companion
+@end entry
+
+@letter E
+
+@entry e [house] N
+@sense N house, temple
+@end entry
+
+@entry e [leave] V/i
+@sense V/i leave, go out
+@sense V/i come out, to emerge
+@sense V/t leave
+@end entry
+
+@entry eb [oval] N
+@sense N oval, shrine(?) 
+@end entry
+
+@entry ed [ascend] V/i
+@sense V/i ascend
+@sense V/t bring up
+@end entry
+
+@entry eʾEŠ [prison] N
+@sense N prison
+@end entry
+
+@entry eden [plain] N
+@sense N plain, steppe, open country
+@end entry
+
+@entry eg [levee] N
+@sense N levee
+@end entry
+
+@entry egal [palace] N
+@sense N palace
+@end entry
+
+@entry egia [bride] N
+@sense N bride
+@end entry
+
+@entry eŋir [back] N
+@sense N back
+@sense N end
+@sense N a profession
+@end entry
+
+@entry ekur [prison] N
+@sense N prison
+@end entry
+
+@entry elungak [brewery] N
+@sense N brewery
+@end entry
+
+@entry emarru [quiver] N
+@sense N quiver
+@end entry
+
+@entry eme [donkey] N
+@sense N female donkey
+@end entry
+
+@entry eme [tongue] N
+@sense N tongue, language
+@end entry
+
+@entry emi [household] N
+@sense N queen's household
+@end entry
+
+@entry en [cvne] N
+@sense N (compound verb nominal element)
+@end entry
+
+@entry en [lord] N
+@sense N lord
+@end entry
+
+@entry en [priest] N
+@sense N priest
+@end entry
+
+@entry en tar [ask] V/t
+@sense V/t ask
+@end entry
+
+@entry enbar [reed] N
+@sense N reed
+@end entry
+
+@entry endu [song] N
+@sense N a song
+@end entry
+
+@entry ene [pleasure] N
+@sense N pleasure?
+@end entry
+
+@entry engar [farmer] N
+@sense N farmer
+@end entry
+
+@entry eniŋGA [depot] N
+@sense N depot, storehouse
+@end entry
+
+@entry enkud [tax-collector] N
+@sense N tax-collector
+@end entry
+
+@entry enna [until] CNJ
+@sense CNJ until, up to
+@end entry
+
+@entry ennuŋ [imprisonment] N
+@sense N imprisonment
+@sense N guards
+@end entry
+
+@entry ensik [ruler] N
+@sense N ruler
+@sense N governor
+@sense N captain
+@end entry
+
+@entry ensikgal [governor] N
+@sense N chief governor
+@end entry
+
+@entry er [tears] N
+@sense N tears
+@end entry
+
+@entry eren [cedar] N
+@sense N cedar
+@end entry
+
+@entry ereš [lady] N
+@sense N lady, queen
+@end entry
+
+@entry erešdiŋir [priestess] N
+@sense N a priestess
+@end entry
+
+@entry erin [people] N
+@sense N people, troops
+@end entry
+
+@entry esi [diorite] N
+@sense N diorite
+@end entry
+
+@entry esi [tree] N
+@sense N a tree
+@end entry
+
+@entry esir [bitumen] N
+@sense N bitumen, pitch
+@end entry
+
+@entry eš [shrine] N
+@sense N shrine
+@end entry
+
+@entry eš [three] NU
+@sense NU three
+@end entry
+
+@entry eše [length unit] N
+@sense N a unit of length
+@end entry
+
+@entry ešabdu [profession] N
+@sense N (an administrative temple official)
+@end entry
+
+@entry ešag [chamber] N
+@sense N chamber, personal quarters
+@end entry
+
+@entry ešeš [festival] N
+@sense N festival
+@end entry
+
+@entry ešgana [line] N
+@sense N measuring line
+@end entry
+
+@entry eškiri [rope] N
+@sense N nose-rope, tether
+@end entry
+
+@entry ezem [festival] N
+@sense N festival
+@end entry
+
+@entry ezi [bird] N
+@sense N bird
+@end entry
+
+@letter G
+
+@entry ga [milk] N
+@sense N milk, suckling
+@end entry
+
+@entry gab [left] N
+@sense N left (hand), left (side)
+@end entry
+
+@entry gaba [chest] N
+@sense N breast, chest, frontier
+@end entry
+
+@entry gabaŋal [forceful] AJ
+@sense AJ forceful
+@sense N forceful one
+@end entry
+
+@entry gabari [copy] N
+@sense N copy
+@sense N rival, opponent 
+@end entry
+
+@entry gabašuŋar [rival] N
+@sense N rival, opponent 
+@end entry
+
+@entry gadala [fabric] N
+@sense N a fabric
+@end entry
+
+@entry gag [nail] N
+@sense N peg, nail
+@sense N spear
+@end entry
+
+@entry gal [big] V/i
+@sense V/i (to be) big, great
+@end entry
+
+@entry gallagal [policeman] N
+@sense N chief policeman
+@end entry
+
+@entry gala [singer] N
+@sense N lamentation singer
+@end entry
+
+@entry galam [skilful] V/i
+@sense V/i (to be) skilful, elaborate, clever, to make artfully
+@end entry
+
+@entry galamah [singer] N
+@sense N chief lament singer
+@end entry
+
+@entry galdi [exalted] AJ
+@sense AJ exalted
+@end entry
+
+@entry galuŋak [official] N
+@sense N an official
+@end entry
+
+@entry gambi [crane] N
+@sense N crane
+@end entry
+
+@entry gana [field] N
+@sense N field
+@end entry
+
+@entry ganagid [surveyor] N
+@sense N field surveyor
+@end entry
+
+@entry ganba [price] N
+@sense N market price
+@end entry
+
+@entry ganun [storehouse] N
+@sense N storehouse
+@end entry
+
+@entry gardar [retreat] V/i
+@sense V/i retreat (?)
+@end entry
+
+@entry gardu [soldier] N
+@sense N soldier
+@end entry
+
+@entry garig [comb] N
+@sense N comb
+@end entry
+
+@entry gatil [vow] N
+@sense N vow, a votive offering
+@end entry
+
+@entry gaz [kill] V/t
+@sense V/t to kill, to slaughter
+@sense V/t to repel
+@end entry
+
+@entry gaʾeš [trader] N
+@sense N trader
+@end entry
+
+@entry geme [worker] N
+@sense N female worker
+@end entry
+
+@entry gi [reed] N
+@sense N reed, cane, a unit of length
+@end entry
+
+@entry gi [turn] V/i
+@sense V/i turn
+@sense V/t turn, return
+@end entry
+
+@entry gibil [new] V/i
+@sense V/i new
+@end entry
+
+@entry gid [long] V/i
+@sense V/i (to be) long
+@sense N length
+@end entry
+
+@entry gig [sick] V/i
+@sense V/i (to be) sick, (to be) troublesome
+@end entry
+
+@entry giggi [black] V/i
+@sense V/i (to be) black
+@sense N length
+@end entry
+
+@entry gigir [chariot] N
+@sense N chariot
+@end entry
+
+@entry giguna [terrace] N
+@sense N terrace, high temple
+@sense N divine audience chamber
+@end entry
+
+@entry giŋ [unit] N
+@sense N  a unit of weight, shekel, a unit of area, a unit of volume
+@end entry
+
+@entry gilsa [treasure] N
+@sense N treasure
+@end entry
+
+@entry gin [establish] V/i
+@sense V/i (to be) permanent, true
+@sense V/t establish, confirm, make firm
+@end entry
+
+@entry giri [nose] N
+@sense N nose
+@end entry
+
+@entry girizal [joy] N
+@sense N joy, rejoicing
+@end entry
+
+@entry gu [eat] V/t
+@sense V/t eat, consume
+@end entry
+
+@entry gu [entirety] N
+@sense N entirety, sum, total
+@end entry
+
+@entry gu [cord] N
+@sense N cord, net, unretted flax stalks
+@end entry
+
+@entry gu [neck] N
+@sense N neck
+@sense N bank
+@end entry
+
+@entry gu si [assemble] V/t
+@sense V/t assemble
+@end entry
+
+@entry gu [voice] N
+@sense N voice
+@end entry
+
+@entry gu de [say] V/t
+@sense V/t say
+@end entry
+
+@entry gu gur [pile up] V/t
+@sense V/t to pile up
+@end entry
+
+@entry gu ŋar [submit] V/t
+@sense V/t submit
+@end entry
+
+@entry gu ŋeš ŋal [submit] V/t
+@sense V/t submit
+@end entry
+
+@entry gub [stand] V/i
+@sense V/i stand
+@sense V/t install, plant
+@sense V/i intercede with someone (DAT) for something (TERM)
+@end entry
+
+@entry gud [ox] N
+@sense N bull, ox
+@end entry
+
+@entry gudalim [bovid] N
+@sense N bovid
+@end entry
+
+@entry gudrah [drover] N
+@sense N drover
+@end entry
+
+@entry gudug [priest] N
+@sense N a priest
+@end entry
+
+@entry gudugabzuk [priest] N
+@sense N a priest
+@end entry
+
+@entry gugal [inspector] N
+@sense N canal inspector
+@end entry
+
+@entry gul [destroy] V/t
+@sense V/t destroy
+@end entry
+
+@entry guli [friend] N
+@sense N friend
+@end entry
+
+@entry gun [load] N
+@sense N load
+@end entry
+
+@entry gunesaŋa [cupboard] N
+@sense N cupboard
+@end entry
+
+@entry gunu [speckled] V/i
+@sense V/i (to be) speckled, multicolored
+@sense V/t decorate
+@end entry
+
+@entry gur [lift] V/t
+@sense V/t lift, carry
+@end entry
+
+@entry gur [thick] V/i
+@sense V/i (to be) thick
+@end entry
+
+@entry gur [unit] N
+@sense N a unit of capacity, a measuring vessel
+@end entry
+
+@entry gur [turn] V/t
+@sense V/t to turn, return
+@end entry
+
+@entry gur [unmng] N
+@sense N (unknown meaning) 
+@end entry
+
+@entry gurgur [vessel] N
+@sense N a vessel, a unit of liquid capacity
+@end entry
+
+@entry gursaŋŋal [unit] N
+@sense N a unit of measure
+@end entry
+
+@entry guru [store] N
+@sense N store
+@sense N unit of capacity
+@end entry
+
+@entry guru [grind] V/t
+@sense V/t to grind, grate, to cut up, chop, (to be) trimmed, pruned
+@end entry
+
+@entry gurum [bend] V/t
+@sense V/t bend, curve, wrap around
+@end entry
+
+@entry gurun [fruit] N
+@sense N fruit, flower
+@end entry
+
+@entry gusur [profession] N
+@sense N a profession
+@end entry
+
+@entry guza [chair] N
+@sense N chair
+@end entry
+
+@entry guzala [official] N
+@sense N an official, throne-bearer
+@end entry
+
+@letter Ŋ
+
+@entry ŋal [cvne] N
+@sense N (compound verb nominal element)
+@end entry
+
+@entry ŋal [be] V/i
+@sense V/i be
+@end entry
+
+@entry ŋanun [storehouse] N
+@sense N storehouse
+@end entry
+
+@entry ŋar [place] V/t
+@sense V/t put, place, lay down
+@end entry
+
+@entry ŋarza [rites] N
+@sense N rites, cultic or cosmic ordinance
+@end entry
+
+@entry ŋaʾe [I] IP
+@sense IP I, me, mine
+@end entry
+
+@entry ŋaʾuduʾur [~sheep] N
+@sense N sheep-shearing shed
+@end entry
+
+@entry ŋen [go] V/i
+@sense V/i go, walk
+@end entry
+
+@entry ŋeš [penis] N
+@sense N penis
+@end entry
+
+@entry ŋeš [sixty] NU
+@sense NU sixty
+@end entry
+
+@entry ŋeš [tree] N
+@sense N tree
+@end entry
+
+@entry ŋešaʾabak [tree] N
+@sense N (a thorny tree)
+@end entry
+
+@entry ŋešbun [meal] N
+@sense N a (cultic) meal
+@end entry
+
+@entry ŋešdumin [fourhundred-twenty] NU
+@sense NU fourhundred-twenty
+@end entry
+
+@entry ŋešhur [plan] N
+@sense N plan
+@end entry
+
+@entry ŋeš hur [draw] V/t
+@sense V/t draw
+@end entry
+
+@entry ŋeškešda [dam] N
+@sense N dam
+@end entry
+
+@entry ŋeškiŋti [tree] N
+@sense N craftsman
+@end entry
+
+@entry ŋeškur [tree] N
+@sense N a tree
+@end entry
+
+@entry ŋešnimbar [palm] N
+@sense N palm
+@end entry
+
+@entry ŋešnugal [alabaster] N
+@sense N alabaster
+@end entry
+
+@entry ŋešnud [bed] N
+@sense N bed
+@end entry
+
+@entry ŋeš par₃ [trap] V/t
+@sense V/t to lay a trap
+@end entry
+
+@entry ŋeš tag [make offerings] V/t
+@sense V/t to make offerings, to offer something (= L3)
+@end entry
+
+@entry ŋeštin [vine] N
+@sense N vine
+@end entry
+
+@entry ŋeštug [ear] N
+@sense N ear
+@end entry
+
+@entry ŋeštug gub [plan] V/t
+@sense V/t pay attention, to plan
+@end entry
+
+@entry ŋeštuga rugu [bring attention] V/i
+@sense V/i bring attention
+@end entry
+
+@entry ŋeš tuku [listen] V/t
+@sense V/t listen, to hear
+@end entry
+
+@entry ŋeštugninkilimak [garment] N
+@sense N 'mongoose-ear' garment
+@end entry
+
+@entry ŋi [night] N
+@sense N night
+@end entry
+
+@entry ŋibaʾa [midnight] N
+@sense N midnight
+@end entry
+
+@entry ŋiʾunak [night] N
+@sense N night, night-time
+@end entry
+
+@entry ŋidru [scepter] N
+@sense N scepter
+@end entry
+
+@entry ŋipar [cloister] N
+@sense N cloister
+@end entry
+
+@entry ŋiri [foot] N
+@sense N foot
+@end entry
+
+@entry ŋiri [dagger] N
+@sense N razor, sword, dagger
+@end entry
+
+@entry ŋirila [butcher] N
+@sense N butcher
+@end entry
+
+@entry ŋiripadra [bone] N
+@sense N bone
+@end entry
+
+@entry ŋissu [shade] N
+@sense N shade, shadow
+@end entry
+
+@entry ŋiškim [sign] N
+@sense N sign, omen, trust, aid
+@end entry
+
+@entry ŋiškimti [trust] N
+@sense N trust, aid 
+@end entry
+
+@entry ŋuruš [male] N
+@sense N young adult male, able-bodied male worker, semi-free male worker
+@end entry
+
+@entry ŋušur [beam] N
+@sense N beam
+@end entry
+
+@letter H
+
+@entry hazin [barley] N
+@sense N a type of barley
+@end entry
+
+@entry had [bright] V/i
+@sense V/i (to be) bright, to shine, (to be) pure, (to be) clear
+@end entry
+
+@entry halam [forsake] V/t
+@sense V/t forsake, destroy, become forgotten
+@end entry
+
+@entry halub [tree] N
+@sense N a tree
+@end entry
+
+@entry harran [route] N
+@sense N route, road
+@end entry
+
+@entry haš [break] V/t
+@sense V/t to break off, to break
+@end entry
+
+@entry haʾum [clay] N
+@sense N dark clay
+@end entry
+
+@entry hedu [ornament] N
+@sense N ornament
+@end entry
+
+@entry heŋal [plenty] N
+@sense N plenty
+@end entry
+
+@entry hetila [vow] N
+@sense N vow, a votive offering
+@end entry
+
+@entry hi [mix] V/t
+@sense V/t to mix (up)
+@end entry
+
+@entry hili [wig] N
+@sense N a ritual wig
+@end entry
+
+@entry hiritum [ditch] N
+@sense N city ditch, (dry) moat
+@end entry
+
+@entry huŋ [hire] V/t
+@sense V/t to hire, rent
+@end entry
+
+@entry huŋ [pacify] V/t
+@sense V/t to pacify
+@end entry
+
+@entry hul [rejoice] V/i
+@sense V/i to rejoice at something (= COM)
+@end entry
+
+@entry hulu [bad] V/t
+@sense V/i (to be) bad, evil
+@sense V/t to plunder, raid
+@end entry
+
+@entry huluŋal [evil] V/i
+@sense V/i (to be) bad, evil
+@end entry
+
+@entry huluh [frightened] V/i
+@sense V/i to be frightened
+@end entry
+
+@entry hur [scratch] V/t
+@sense V/t to scratch
+@end entry
+
+@entry hursaŋ [mountain] N
+@sense N mountain
+@end entry
+
+@entry huš [reddish] V/i
+@sense V/i (to be) reddish, ruddy
+@end entry
+
+@letter I
+
+@entry i [oil] N
+@sense N oil
+@end entry
+
+@entry iʾi [praise] V/t
+@sense V/t to praise
+@end entry
+
+@entry i duga [oil] N
+@sense N aromatic oil or ointment
+@end entry
+
+@entry ibila [heir] N
+@sense N heir
+@end entry
+
+@entry id [river] N
+@sense N river
+@sense N canal
+@end entry
+
+@entry idlurugu [ordeal river] N
+@sense N ordeal river
+@end entry
+
+@entry idu [doorkeeper] N
+@sense N doorkeeper
+@end entry
+
+@entry ig [door] N
+@sense N door
+@end entry
+
+@entry igi [eye] N
+@sense N eye
+@end entry
+
+@entry igi [face] N
+@sense N face
+@sense N arrowhead
+@end entry
+
+@entry igi bar [look at] V/t
+@sense V/t to look at somebody or something
+@end entry
+
+@entry igi bar [look favourably at] V/t
+@sense V/t to look favourably at somebody or something
+@end entry
+
+@entry igi duh [see] V/t
+@sense V/t to see
+@end entry
+
+@entry igi ŋal [look at] V/t
+@sense V/t to look at
+@end entry
+
+@entry igi il₂ [look] V/t
+@sense V/t to look at/towards, to choose
+@end entry
+
+@entry igilu [profession] N
+@sense N a profession
+@end entry
+
+@entry iginim [land] N
+@sense N land
+@end entry
+
+@entry iginudu [blind] N
+@sense N a type of worker, blind
+@end entry
+
+@entry iginzu [as if] MA
+@sense MA as if
+@end entry
+
+@entry igitab [blinker] N
+@sense N blinker, guide, mentor
+@end entry
+
+@entry il [raise] V/t
+@sense V/t raise
+@end entry
+
+@entry ildum [band] N
+@sense N clan
+@end entry
+
+@entry im [clay] N
+@sense N clay
+@end entry
+
+@entry im [rain] N
+@sense N rain, rain storm
+@end entry
+
+@entry imhul [wind] N
+@sense N destructive wind
+@end entry
+
+@entry imin [seven] NU
+@sense NU seven
+@end entry
+
+@entry imŋaŋa [emmer] N
+@sense N emmer
+@end entry
+
+@entry imsara [inscription] N
+@sense N inscription
+@end entry
+
+@entry induba [boundary] N
+@sense N boundary
+@end entry
+
+@entry inim [word] N
+@sense N word
+@end entry
+
+@entry inim gi [answer] V/t
+@sense V/t to contest, to withdraw, to answer
+@end entry
+
+@entry inim gin [confirm] V/t
+@sense V/t to confirm
+@end entry
+
+@entry inun [ghee] N
+@sense N butter
+@sense N ghee
+@end entry
+
+@entry ir [scent] N
+@sense N scent
+@end entry
+
+@entry irara [oil-presser] N
+@sense N oil-presser
+@end entry
+
+@entry iri [city] N
+@sense N city
+@end entry
+
+@entry ishu [string] N
+@sense N string
+@end entry
+
+@entry išib [priest] N
+@sense N incantation priest, exorcist
+@end entry
+
+@entry itud [moon] N
+@sense N moon, moonlight
+@end entry
+
+@entry iʾutu [complaint] N
+@sense N complaint
+@end entry
+
+@entry izi [fire] N
+@sense N fire
+@end entry
+
+@entry IZI.DU.GI.US₂ [unmng] N
+@sense N (unknown meaning) 
+@end entry
+
+@letter K
+
+@entry KA.KID [unmng] N
+@sense N (unknown meaning) 
+@end entry
+
+@entry kad [tie] V/t
+@sense V/t tie, gather
+@end entry
+
+@entry kag [mouth] N
+@sense N mouth
+@end entry
+
+@entry kaguruk [supervisor] N
+@sense N granary supervisor
+@end entry
+
+@entry kalag [strong] V/i
+@sense V/i strong
+@end entry
+
+@entry kalak [trench] N
+@sense N trench
+@end entry
+
+@entry kalam [land] N
+@sense N the Land (of Sumer)
+@end entry
+
+@entry kan [gate] N 
+@sense N gate, door
+@end entry
+
+@entry kar [flee] V/i 
+@sense V/i to flee
+@sense V/t to take away, to remove
+@end entry
+
+@entry kar [harbor] N 
+@sense N harbor
+@end entry
+
+@entry kaskal [way] N
+@sense N way, road
+@sense N military service
+@end entry
+
+@entry kaš [beer] N
+@sense N beer
+@end entry
+
+@entry kaš [runner] N
+@sense N runner
+@end entry
+
+@entry kešed [bind] V/t
+@sense V/t to bind
+@end entry
+
+@entry ki [place] N
+@sense N place
+@end entry
+
+@entry ki aŋ [love] V/t
+@sense V/t to love
+@end entry
+
+@entry kibala [rebel land] N
+@sense N rebel land
+@end entry
+
+@entry ki ŋar [found] V/t
+@sense V/t to found
+@end entry
+
+@entry ki sur [mark a boundary] V/t
+@sense V/t to mark a boundary, to demarcate
+@end entry
+
+@entry ki us [set on the ground] V/t
+@sense V/t to set on the ground, to erect
+@end entry
+
+@entry ki za [bow down] V/i
+@sense V/i to bow down before someone (= DAT)
+@end entry
+
+@entry kib [object] N
+@sense N an object, inscribed clay nail?
+@end entry
+
+@entry kiŋ [work] V/t
+@sense V/t to work
+@sense N work, a piece of work
+@end entry
+
+@entry kiŋgia [messenger] N
+@sense N messenger
+@end entry
+
+@entry kiŋnim [meal] N
+@sense N morning meal
+@end entry 
+
+@entry kiŋsig [meal] N
+@sense N afternoon meal
+@end entry 
+
+@entry kigal [platform] N
+@sense N platform, pedestal
+@end entry
+
+@entry kigub [station] N
+@sense N station
+@end entry
+
+@entry kimah [grave] N
+@sense N grave
+@end entry
+
+@entry kinda [barber] N
+@sense N barber, hairdresser
+@end entry
+
+@entry kindagal [barber] N
+@sense N chief barber
+@end entry
+
+@entry kindar [hole] N
+@sense N hole, crevice
+@end entry
+
+@entry kinkin [miller] N
+@sense N miller
+@end entry
+
+@entry kiri [orchard] N
+@sense N (fruit) plantation, orchard
+@end entry
+
+@entry kisa [platform] N
+@sense N platform
+@end entry
+
+@entry kisal [courtyard] N
+@sense N courtyard
+@end entry
+
+@entry kisura [border] N
+@sense N border
+@end entry
+
+@entry kiš [totality] N
+@sense N totality, world
+@end entry
+
+@entry kišar [earth] N
+@sense N totality, the whole earth, horizon
+@end entry
+
+@entry kišib [seal] N
+@sense N seal, sealed tablet
+@end entry
+
+@entry KIŠlam [basket] N
+@sense N basket
+@end entry
+
+@entry kišutag [locus] N
+@sense N a cultic place
+@end entry
+
+@entry kituš [dwelling] N
+@sense N dwelling place
+@end entry
+
+@entry kiʾanaŋ [locus] N
+@sense N a place of libations to the dead, mortuary chapel
+@end entry
+
+@entry kiʾur [foundation] N
+@sense N foundation
+@end entry
+
+@entry kud [cut] V/t
+@sense V/t cut
+@end entry
+
+@entry kug [metal] N
+@sense N metal, silver
+@end entry
+
+@entry kug [pure] V/i
+@sense V/i pure
+@end entry
+
+@entry kugbabbar [silver] N
+@sense N silver
+@end entry
+
+@entry kugsig [gold] N
+@sense N gold
+@end entry
+
+@entry kum [hot] V/i
+@sense V/i (to be) hot
+@end entry
+
+@entry kumul [cumin] N
+@sense N cumin
+@end entry
+
+@entry kun [tail] N
+@sense N tail, canal outlet
+@end entry
+
+@entry kun [stair] N
+@sense N stair(case)
+@end entry
+
+@entry kur [different] V/i
+@sense V/i (to be) different
+@sense V/t to dispute, challenge, contest
+@sense V/t to remove something (= ABS) from somewhere (= COM)
+@end entry
+
+@entry kur [enter] V/i
+@sense V/i enter
+@sense V/t bring into
+@end entry
+
+@entry kur [mountain] N
+@sense N mountain
+@sense N land
+@end entry
+
+@entry kurgi [goose] N
+@sense N goose
+@end entry
+
+@entry kuršag [mountain] N
+@sense N the interior of the mountains, foreign lands
+@end entry
+
+@entry kurum [ration] N
+@sense N ration
+@end entry
+
+@entry kurun [beer] N
+@sense N a beer
+@end entry
+
+@entry kurunagal [chief brewer] N
+@sense N chief brewer
+@end entry
+
+
+@entry kurušda [fattener] N
+@sense N animal fattener
+@end entry
+
+@entry kuš [skin] N
+@sense N skin, leather, body, person
+@end entry
+
+@entry kuš [unit] N
+@sense N unit
+@end entry
+
+@entry kušu [tired] V/i
+@sense V/i (to be) tired, troubled
+@end entry
+
+@letter L
+
+@entry la [hang] V/t
+@sense V/t to hang
+@sense V/t to weigh (out), to pay 
+@end entry
+
+@entry la [stretch] V/t
+@sense V/t to stretch out, extend, to be in order
+@end entry
+
+@entry lagab [block] N
+@sense N block
+@end entry
+
+@entry lagar [priest] N
+@sense N a priest
+@end entry
+
+@entry lal [small] V/i
+@sense V/i small
+@end entry
+
+@entry lal [syrup] N
+@sense N syrup
+@end entry
+
+@entry lammar [deity] N
+@sense N deity
+@end entry
+
+@entry libir [old] V/i
+@sense V/i old
+@end entry
+
+@entry limmu [four] NU
+@sense NU four
+@end entry
+
+@entry lipiš [innards] N
+@sense N inner body, heart, anger, rage
+@end entry
+
+@entry lu [abundant] V/i
+@sense V/i (to be) abundant
+@end entry
+
+@entry lu [mix] V/t
+@sense V/t mix
+@end entry
+
+@entry lu [person] N
+@sense N person
+@sense N leader
+@end entry
+
+@entry luaŋa [leader] N
+@sense N leader. commissioner
+@end entry
+
+@entry lu did tuku [litigant] N
+@sense N litigant
+@end entry
+
+@entry lub [turnip] N
+@sense N turnip
+@end entry
+
+@entry lubappir [brewer] N
+@sense N brewer
+@end entry
+
+@entry luʾešgid [surveyor] N
+@sense N surveyor
+@end entry
+
+@entry luʾumumak [profession] N
+@sense N a profession
+@end entry
+
+@entry lugal [king] N
+@sense N king
+@sense N owner
+@end entry
+
+@entry luh [clean] V/t
+@sense V/t clean, wash
+@end entry
+
+@entry lukur [priestess] N
+@sense N a priestess, consort
+@end entry
+
+@entry lukur kaskalak [wife] N
+@sense N a consort who accompanies the ruler during journeys, accompanying consort
+@end entry
+
+@entry lukur [stranger] N
+@sense N stranger
+@end entry
+
+@entry lum [fruit] V/i
+@sense V/i (to be) full, replete, satisfied (with), (to be) grown (tall), to fruit
+@end entry
+
+@entry lumagur [boatman] N
+@sense N boatman
+@end entry
+
+@entry lumah [priest] N
+@sense N a priest
+@end entry
+
+@entry lungak [brewer] N
+@sense N brewer
+@end entry
+
+@entry luʾerim [evildoer] N
+@sense N evildoer, enemy
+@sense N opponent
+@end entry
+
+@letter M
+
+@entry ma [ship] N
+@sense N ship
+@end entry
+
+@entry maʾaddir [ferryboat] N
+@sense N ferryboat, boat for hire
+@end entry
+
+@entry mada [land] N
+@sense N land, country
+@end entry
+
+@entry magid [boatman] N
+@sense N boatman
+@end entry
+
+@entry magur [barge] N
+@sense N barge
+@end entry
+
+@entry mah [great] V/i
+@sense V/i great
+@end entry
+
+@entry malah [sailor] N
+@sense N sailor
+@end entry
+
+@entry malaku [~meat] N
+@sense N a cut of meat
+@end entry
+
+@entry mamud [dream] N
+@sense N dream
+@end entry
+
+@entry mana [unit] N
+@sense N a unit of weight
+@end entry
+
+@entry manu [wood] N
+@sense N wood
+@end entry
+
+@entry marru [stormwind] N
+@sense N stormwind
+@end entry
+
+@entry maš [goat] N
+@sense N goat
+@end entry
+
+@entry mašdarea [payment] N
+@sense N payment
+@end entry
+
+@entry maše pad [choose by extispicy] V/t
+@sense V/t to choose by extispicy
+@end entry
+
+@entry mašgal [goat] N
+@sense N billy goat
+@end entry
+
+@entry maškim [administrator] N
+@sense N an administrator, commissioner
+@sense N obligation, duty
+@end entry
+
+@entry maššugidgid [diviner] N
+@sense N diviner
+@end entry
+
+@entry me [battle] N
+@sense N battle
+@end entry
+
+@entry mea [where?] N
+@sense N where?
+@end entry
+
+@entry me [be] V/i
+@sense V/i to be, (the independent form of the) copula
+@end entry
+
+@entry me [being] N
+@sense N Being, divine properties enabling cosmic activity, divine powers, divine attributes
+@end entry
+
+@entry melim [splendor] N
+@sense N frightening splendor, fearsome radiance
+@end entry
+
+@entry men [tiara] N
+@sense N tiara, a type of crown, diadem
+@end entry
+
+@entry meš [tree] N
+@sense N a tree, (metaphorically) a young man
+@end entry
+
+@entry mete [appropriate thing] N
+@sense N appropriate thing, ornament
+@end entry
+
+@entry mi [cvne] N
+@sense N (compound verb nominal element)
+@end entry
+
+@entry mi dug [care for] V/t
+@sense V/t care for, treat well, treat kindly, decorate
+@end entry
+
+@entry min [two] NU
+@sense NU two
+@end entry
+
+@entry mir [angry] V/i
+@sense V/i (to be) angry
+@end entry
+
+@entry mir [wind] N
+@sense N north wind, north, storm
+@end entry
+
+@entry mitum [weapon] N
+@sense N a divine weapon
+@end entry
+
+@entry mu [grow] V/t
+@sense V/t to grow, to make something high
+@sense V/i to grow
+@end entry
+
+@entry mu [name] N
+@sense N name
+@end entry
+
+@entry mu [year] N
+@sense N year
+@end entry
+
+@entry mu pad [nominate] V/t
+@sense V/t to nominate, to proclaim one's name publicly
+@inote sjt -- corrected e-ne₂-pad₃-da to e-ne₂-pad₃-da
+@end entry
+
+@entry mud [jar] N
+@sense N beer jar, a unit of liquid capacity
+@end entry
+
+@entry mudna [spouse] N
+@sense N spouse
+@end entry
+
+@entry muhaldim [cook] N
+@sense N cook
+@end entry
+
+@entry mul [shine] V/i
+@sense V/i to shine
+@end entry
+
+@entry mulan [star] N
+@sense N heavenly star
+@end entry
+
+@entry mun [salt] N
+@sense N salt
+@end entry
+
+@entry munus [woman] N
+@sense N woman
+@end entry
+
+@entry murgu [shoulder] N
+@sense N shoulder
+@end entry
+
+@entry murub [middle] N
+@sense N middle
+@end entry
+
+@entry musara [inscription] N
+@sense N inscription
+@end entry
+
+@entry mussa [in-law] N
+@sense N son-in-law
+@end entry
+
+@entry musub [heardsman] N
+@sense N shepherd, herdsman, an official
+@end entry
+
+@entry muš [face] N
+@sense N face
+@end entry
+
+@entry muš [snake] N
+@sense N snake
+@end entry
+
+@entry mušen [bird] N
+@sense N bird
+@end entry
+
+@entry mušŋiri [snake] N
+@sense N snake
+@end entry
+
+@entry mušlah [singer] N
+@sense N snake charmer
+@end entry
+
+@entry muš tum [stop working] V/i
+@sense V/t stop working 
+@end entry
+
+@entry muzug [person] N
+@sense N a ritually unclean, impure person
+@end entry
+
+@letter N
+
+@entry na [cvne] N
+@sense N (compound verb nominal element)
+@end entry
+
+@entry na [stone] N
+@sense N stone
+@end entry
+
+@entry na deg [exploit] V/t
+@sense V/t to exploit something (L1/ABL) for something (ABS)
+@end entry
+
+@entry nagada [herdsman] N
+@sense N herdsman
+@end entry
+
+@entry nagbu [water] N
+@sense N waters, sources
+@end entry
+
+@entry naŋ [drink] V/t
+@sense V/t drink
+@end entry
+
+@entry nakabtum [stockyard?] N
+@sense N stockyard? (an administrative superstructure for the storage and distribution of agricultural products)
+@end entry
+
+@entry nam [fate] N
+@sense N fate
+@sense N concern
+@sense O plurality (`nam NOUN' expresses the collective plural of NOUN)
+@end entry
+
+@entry nam [oath] N
+@sense N oath
+@end entry
+
+@entry nam kud [swear] V/t
+@sense V/t to swear, to make a promissory oath
+@end entry
+
+@entry nam kud [curse] V/t
+@sense V/t to curse
+@end entry
+
+@entry nam tar [decree fate] V/t
+@sense V/t to decree fate for someone/something (= L2)
+@end entry
+
+@entry nam dug tar [decree a good fate] V/t
+@sense V/t to decree a good fate for someone/something (= L2)
+@end entry
+
+@entry namdumu [status] N
+@sense N status as son
+@sense N status as crown prince
+@end entry
+
+@entry name [somebody] XP
+@sense XP some, any
+@end entry
+
+@entry namen [lordship] N
+@sense N lordship, the status of being lord
+@end entry
+
+@entry namensik [office of ruler] N
+@sense N office of ruler
+@end entry
+
+@entry namerim [oath] N
+@sense N oath
+@end entry
+
+@entry namgalam [skillfullness] N
+@sense N skillfullness
+@end entry
+
+@entry namgaʾeš [trade] N
+@sense N sea trade
+@end entry
+
+@entry namhe [abundance] N
+@sense N abundance
+@end entry
+
+@entry namlugal [kingship] N
+@sense N kingship, royal
+@end entry
+
+@entry nammah [greatness] N
+@sense N greatness
+@end entry
+
+@entry nammunus [femininity] N
+@sense N feminity
+@end entry
+
+@entry namnin [ladyship] N
+@sense N ladyship
+@end entry
+
+@entry namnirŋal [authority] N
+@sense N authority
+@end entry
+
+@entry namnubanda [supervisorship] N
+@sense N office of overseer, position as overseer
+@end entry
+
+@entry namnun [magnificence] N
+@sense N magnificence
+@sense N princedom
+@end entry
+
+@entry namra [booty] N
+@sense N booty
+@end entry
+
+@entry namraʾak [booty] N
+@sense N booty
+@end entry
+
+@entry namsipad [shepherdship] N
+@sense N shepherdship
+@end entry
+
+@entry namsisa [righteousness] N
+@sense N righteousness
+@end entry
+
+@entry namšakkanak [governorship] N
+@sense N governorship
+@end entry
+
+@entry namšeš [brotherhood] N
+@sense N brotherhood
+@end entry
+
+@entry namšita [prayer] N
+@sense N prayer
+@end entry
+
+@entry namtaga [sin] N
+@sense N sin, punishment
+@end entry
+
+@entry namtar [fate] N
+@sense N fate, destiny
+@end entry
+
+@entry namtil [life] N
+@sense N life
+@end entry
+
+@entry namugula [~overseer] N
+@sense N status of overseer
+@end entry
+
+@entry namursaŋ [heroism] N
+@sense N heroism
+@end entry
+
+@entry narua [stele] N
+@sense N stele
+@end entry
+
+@entry ne [strength] N
+@sense N strength
+@end entry
+
+@entry NEhan [tree] N
+@sense N offering
+@end entry
+
+@entry nen [this] DP
+@sense DP this
+@end entry
+
+@entry nesaŋ [offering] N
+@sense N offering
+@end entry
+
+@entry ni [self] N
+@sense N self
+@end entry
+
+@entry ni [fear] N
+@sense N fear
+@end entry
+
+@entry niga [fattened] V/i
+@sense V/i fattened
+@end entry
+
+@entry niŋ [thing] N
+@sense N thing
+@end entry
+
+@entry niŋak [deed] N
+@sense N deed
+@end entry
+
+@entry niŋara [groats] N
+@sense N groats
+@end entry
+
+@entry niŋazig [violence] N
+@sense N violence
+@end entry
+
+@entry niŋba [gift] N
+@sense N gift
+@end entry
+
+@entry niŋbarba [garment] N
+@sense N a garment
+@end entry
+
+@entry niŋdab [requisitions] N
+@sense N requisitioned items
+@end entry
+
+@entry niŋdu [appropriate thing] N
+@sense N appropriate thing
+@end entry
+
+@entry niŋerim [evil] N
+@sense N evil
+@end entry
+
+@entry niŋgig [bad thing] N
+@sense N that which is bad, forbidden, evil
+@end entry
+
+@entry niŋgina [truth] N
+@sense N truth
+@end entry
+
+@entry niŋgur [property] N
+@sense N property
+@end entry
+
+@entry niŋhulu [evil] N
+@sense N evil
+@end entry
+
+@entry NIG.SAG.LAL.MUNUS [headdress] N
+@sense N a type of headdress, turban?
+@end entry
+
+@entry niŋin [total] N
+@sense N total, sum, (the) whole, entirety
+@end entry
+
+@entry niŋin [district] N
+@sense N district
+@end entry
+
+@entry niŋin [encircle] V/t
+@sense V/t to enclose, to confine, to encircle
+@end entry
+
+@entry niŋir [herald] N
+@sense N herald
+@end entry
+
+@entry niŋmussa [gift] N
+@sense N gift
+@end entry
+
+@entry niŋnam [anything] N
+@sense N gift
+@end entry
+
+@entry niŋsaga [goodness] N
+@sense N goodness, good (thing)
+@end entry
+
+@entry niŋsisa [justice] N
+@sense N justice
+@end entry
+
+@entry niŋtuku [rich] AJ
+@sense AJ rich
+@end entry
+
+@entry niŋurum [property] N
+@sense N property
+@end entry
+
+@entry nim [high] V/i
+@sense V/i (to be) high, elevated
+@sense N upper lands
+@end entry
+
+@entry nimur [ashes] N
+@sense N alkali, potash, coal, ashes, charcoal
+@end entry
+
+@entry nin [lady] N
+@sense N lady
+@sense N owner
+@end entry
+
+@entry nin [sister] N
+@sense N sister, cousin
+@end entry
+
+@entry ninda [bread] N
+@sense N bread
+@end entry
+
+@entry ninda [bull] N
+@sense N bull
+@end entry
+
+@entry nindaba [offering] N
+@sense N (food) offering
+@end entry
+
+@entry nindan [pole] N
+@sense N pole, a unit of length
+@end entry
+
+@entry ninnu [fifty] NU
+@sense NU fifty
+@end entry
+
+@entry nir [lordly] AJ
+@sense AJ lordly
+@sense N lord
+@end entry
+
+@entry nir [stone] N
+@sense N a valuable stone
+@end entry
+
+@entry NIra [unmng] N
+@sense N (unknown meaning)
+@end entry
+
+
+@entry nirŋal [authoritative] V/i
+@sense V/i (to be) authoritative
+@end entry
+
+@entry nisig [greenery] N
+@sense N greenery, vegetable(s)
+@end entry
+
+@entry nita [male] N
+@sense N male
+@end entry
+
+@entry niš [twenty] NU
+@sense NU twenty
+@end entry
+
+@entry nituku [pious] AJ
+@sense AJ pious
+@end entry
+
+@entry nu [not] MOD
+@sense MOD (to be) not, negative partice used in negative copular clauses
+@end entry
+
+@entry nubanda [overseer] N
+@sense N overseer
+@end entry
+
+@entry nud [lie] V/i
+@sense V/i lie down (of people)
+@end entry
+
+@entry nu’ešak [priest] N
+@sense N a priest
+@end entry
+
+@entry nugig [priestess] N
+@sense N a priestess, a divine epithet, a profession for women
+@end entry
+
+@entry nukirik [gardener] N
+@sense N gardener, horticulturalist
+@end entry
+
+@entry numun [seed] N
+@sense N seed
+@end entry
+
+@entry numun i [unmng] V/t
+@sense V/t (unknown meaning)
+@end entry
+
+@entry numunkuš [widow] N
+@sense N widow
+@end entry
+
+@entry nun [prince] N
+@sense N prince, (as attribute) foremost, best
+@end entry
+
+@entry nusiki [orphan] N
+@sense N orphan
+@end entry
+
+@letter P
+
+@entry pa [branch] N
+@sense N branch
+@end entry
+
+@entry pa e [appear] V/t
+@sense V/t appear
+@end entry
+
+@entry pabilga [relation] N
+@sense N a kinship term
+@end entry
+
+@entry pad [find] V/t
+@sense V/t to find, to discover
+@end entry
+
+@entry par [cvve] V/t
+@sense V/t (compound verb verbal element) 
+@end entry
+
+@entry par [canal] N
+@sense N canal
+@end entry
+
+@entry pel [defile] V/t
+@sense V/t defile, to be thin, light
+@end entry
+
+@entry peš [fig] N
+@sense N fig
+@end entry
+
+@entry peš [seedling] N
+@sense N seedling
+@end entry
+
+@entry peš [thick] V/i
+@sense V/i (to be) thick
+@end entry
+
+@entry piriŋ [lion] N
+@sense N lion
+@end entry
+
+@entry pu [well] N
+@sense N well
+@end entry
+
+@letter R
+
+@entry ra [cvve] V/t
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry ragaba [rider] N
+@sense N rider
+@end entry
+
+@entry rah [beat] V/t
+@sense V/t beat, kill
+@end entry
+
+@entry REC558 [unknown] V/t
+@sense V/t unknown
+@end entry
+
+@entry ri [impose] V/i
+@sense V/i impose
+@end entry
+
+@entry rib [surpassing] V/i
+@sense V/i (to be) surpassing, outstanding, (to be) strong, mass
+@end entry
+
+@entry rig [donate] V/t
+@sense V/t donate
+@end entry
+
+@entry ru [cvve] V/t
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry rugu [withstand] V/t
+@sense V/t withstand
+@end entry
+
+@entry RU-lugalak [soldier] N
+@sense N a soldier, a worker
+@end entry
+
+@entry RU-ura [object] N
+@sense N an object
+@end entry
+
+@letter S
+
+@entry sa [bundle] N
+@sense N bundle
+@end entry
+
+@entry sa [advice] N
+@sense N advice, counsel
+@end entry
+
+@entry sa [equal] V/t
+@sense V/t to be equal
+@sense N equal
+@end entry
+
+@entry sa [pay for] V/t
+@sense V/t to pay for, to buy 
+@end entry
+
+@entry sa dug [arrive] V/t
+@sense V/t to arrive, to cause to arrive (regularly)
+@sense V/t to conquer
+@end entry
+
+@entry sab [jar] N
+@sense N jar
+@end entry
+
+@entry sabar [net] N
+@sense N a net
+@end entry
+
+@entry sadug [offerings] N
+@sense N offerings
+@sense N a unit of liquid capacity
+@end entry
+
+@entry sag [beat] V/t
+@sense V/t to strike, to beat
+@end entry
+
+@entry sag [good] V/i
+@sense V/i (to be) good
+@end entry
+
+@entry sag [scatter] V/t
+@sense V/t scatter, disperse
+@end entry
+
+@entry saŋ [head] N
+@sense N head
+@sense N capital, previous amount
+@sense N slave
+@sense N front
+@end entry
+
+@entry saŋ du [beget] V/t
+@sense V/t beget
+@end entry
+
+@entry saŋ e [take precedence] V/t
+@sense V/t take precedence
+@end entry
+
+@entry saŋ rig [bestow] V/t
+@sense V/t bestow
+@end entry
+
+@entry saŋbur [priest] N
+@sense N priest
+@end entry
+
+@entry saŋguŋal [proud] V/i
+@sense V/i (to be proud)
+@end entry
+
+@entry saŋkal [foremost] N
+@sense N foremost one
+@end entry
+
+@entry saŋki [forehead] N
+@sense N forehead, brow, front
+@end entry
+
+@entry saŋki gid [angry] V/i
+@sense V/t be(come) angry
+@end entry
+
+@entry saŋDUN [recorder] N
+@sense N recorder, land registrar
+@end entry
+
+@entry saŋŋa [official] N
+@sense N an official, the chief administrator of a temple household
+@end entry
+
+@entry saŋkul [bolt] N
+@sense N bolt
+@end entry
+
+@entry saŋšu [helmet] N
+@sense N helmet
+@sense N roof
+@end entry
+
+@entry saŋursaŋ [performer] N
+@sense N a cultic performer
+@end entry
+
+@entry saŋus [constant] V/i
+@sense V/i (to be) constant, regular
+@end entry
+
+@entry sahar [dust] N
+@sense N dust
+@end entry
+
+@entry SAHAR.DU₆.TAK₄ [burial mound] N
+@sense N burial mound
+@end entry
+
+@entry santanak [gardener] N
+@sense N gardener
+@end entry
+
+@entry sar [write] V/t
+@sense V/t write
+@end entry
+
+@entry sašušgal [net] N
+@sense N a net
+@end entry
+
+@entry sed [cold] V/i
+@sense V/i (to be) cold
+@end entry
+
+@entry si [fill] V/t
+@sense V/t fill
+@end entry
+
+@entry si [horn] N
+@sense N horn
+@end entry
+
+@entry si sa [straighten] V/t
+@sense V/t straighten
+@end entry
+
+@entry sig [flatten] V/t
+@sense V/t flatten
+@end entry
+
+@entry sig [put] V/t
+@sense V/t put
+@end entry
+
+@entry sig [weak] V/i
+@sense V/i (to be) weak, (to be) low, (to be) thin, (to be) narrow
+@sense N lower lands
+@end entry
+
+@entry siŋar [bolt] N
+@sense N bolt, clamp
+@end entry
+
+@entry siki [hair] N
+@sense N hair, wool
+@end entry
+
+@entry sikiba [ration] N
+@sense N wool ration
+@end entry
+
+@entry sikil [pure] V/i
+@sense V/i (to be) pure
+@end entry
+
+@entry sila [lamb] N
+@sense N lamb
+@end entry
+
+@entry sila [unit] N
+@sense N a unit of capacity, a vessel
+@end entry
+
+@entry silig [cease] V/t
+@sense V/t cease
+@end entry
+
+@entry silim [healthy] V/i
+@sense V/i healthy
+@end entry
+
+@entry simug [smith] N
+@sense N smith, metalworker
+@end entry
+
+@entry sipad [shepherd] N
+@sense N shepherd
+@end entry
+
+@entry sissi [green] V/i
+@sense V/i (to be) green-yellow, pale
+@end entry
+
+@entry siškur [prayer] N
+@sense N prayer
+@end entry
+
+@entry su [flesh] N
+@sense N flesh, body, entrails (omen), body
+@end entry
+
+@entry sud [distant] V/i
+@sense V/i (to be) distant
+@sense V/i (to be) plentiful
+@end entry
+
+
+@entry sudaŋ [metal] N
+@sense N a precious metal, brilliance
+@end entry
+
+@entry sug [full] V/i
+@sense V/i (to be) full
+@end entry
+
+@entry sug [marsh] N
+@sense N reed-bed, marsh
+@end entry
+
+@entry sug [replace] V/t
+@sense V/t repay a loan, to replace
+@end entry
+
+@entry suhur [carp] N
+@sense N carp
+@end entry
+
+@entry suhurtunbar [fish] N
+@sense N fish
+@end entry
+
+@entry suhuš [foundation] N
+@sense N foundation
+@end entry
+
+@entry sukkal [secretary] N
+@sense N secretary, envoy
+@end entry
+
+@entry sukkalmah [official] N
+@sense N official
+@end entry
+
+@entry sukud [height] V/i
+@sense N heightr
+@sense V/i be(come) high
+@end entry
+
+@entry sumun [old] V/i
+@sense V/i to be(come) old, dilapidated
+@end entry
+
+@entry sumur [angry] V/i
+@sense V/i (to be) angry, furious
+@end entry
+
+@entry sumur [roof] N
+@sense N roof
+@end entry
+
+@entry sun [humble] V/i
+@sense V/i to be(come) humble
+@end entry
+
+@entry sur [press] V/t
+@sense V/t to press
+@end entry
+
+@entry sur [people] N
+@sense N people, troops
+@sense N harness team (of draft animals or workers)
+@end entry
+
+@entry suzi [radiance] N
+@sense N awesome radiance
+@end entry
+
+@letter Š
+
+@entry ša [cvve] V/t
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry šabalbal [descendent] N
+@sense N descendent
+@end entry 
+
+@entry šabra [administrator] N
+@sense N chief administrator of a temple or other household
+@end entry
+
+@entry šabraʾek [administrator] N
+@sense N administrator, estate administrator
+@end entry
+
+@entry šag [heart] N
+@sense N heart, inner body
+@sense N middle
+@end entry
+
+@entry šala [pity] N
+@sense N pity
+@end entry
+
+@entry šag hul [happy] V/i
+@sense V/i happy
+@end entry
+
+@entry šag kušu [soothe] V/t
+@sense V/t soothe, to take counsel with
+@end entry
+
+@entry šagia [cup-bearer] N
+@sense N cup-bearer
+@end entry
+
+@entry šagzu [midwife] N
+@sense N midwife
+@end entry
+
+@entry šaŋan [flask] N
+@sense N flask
+@end entry
+
+@entry šaŋar [oppressed] V/i
+@sense V/i (to be) afflicted, oppressed
+@end entry
+
+@entry šaŋar [starvation] N
+@sense N starvation
+@end entry
+
+@entry šakkanak [general] N
+@sense N military governor
+@sense N general
+@end entry
+
+@entry šar [3600] NU
+@sense NU 3600
+@sense V/i (to be) numerous
+@end entry
+
+@entry šargal [216000] NU
+@sense NU 216000
+@end entry
+
+@entry šarrabdu [administrator] N
+@sense N an administrator
+@end entry
+
+@entry šatam [official] N
+@sense N government auditor, an administrative official
+@end entry
+
+@entry še [barley] N
+@sense N barley
+@end entry
+
+@entry še [call] V/t
+@sense V/t call
+@end entry
+
+@entry šeg [agree] V/t
+@sense V/t to agree, be in agreement, to obey
+@end entry
+
+@entry šeg [brick] N
+@sense N brick
+@end entry
+
+@entry šeg [voice] N
+@sense N voice
+@end entry
+
+@entry šeg gi [make noise] V/t
+@sense V/t to make (a loud) noise, to roar
+@end entry
+
+@entry šegtaba [bricklayer] N
+@sense N layer or course of bricks
+@end entry
+
+@entry šeguba [barley-rental] N
+@sense N rental part paid in barley
+@end entry 
+
+@entry šeŋ [rain] V/i
+@sense V/i rain
+@sense N rain
+@end entry
+
+@entry šembizida [kohl] N
+@sense N kohl, eye makeup, antimony paste
+@end entry
+
+@entry šen [cauldron] N
+@sense N cauldron
+@end entry
+
+@entry šennu [priest] N
+@sense N a priest
+@end entry
+
+@entry šerkan [ornament] N
+@sense N ornament
+@end entry
+
+@entry šeš [brother] N
+@sense N brother
+@sense N sibling
+@end entry
+
+@entry šid [count] V/t
+@sense V/t to count
+@sense N number
+@end entry
+
+@entry šidimgal [builder] N
+@sense N chief builder
+@end entry
+
+@entry šilam [cow] N
+@sense N cow
+@end entry
+
+@entry šim [basin] N
+@sense N basin
+@end entry
+
+@entry šita [weapon] N
+@sense N weapon
+@end entry
+
+@entry šitaʾaba [priest] N
+@sense N a priest
+@end entry
+
+@entry šitaʾeša [priest] N
+@sense N a priest
+@end entry
+
+@entry šu [hand] N
+@sense N hand
+@end entry
+
+@entry šu bad [take] V/t
+@sense V/t to take (possession of), to  plunder
+@end entry
+
+@entry šu bala [change] V/t
+@sense V/t to change, alter, revoke (something = L1)
+@end entry
+
+@entry šu bar [release] V/t
+@sense V/t to release
+@end entry
+
+@entry šu dag [abandon] V/t
+@sense V/t to abandon
+@end entry
+
+@entry šu du₇ [complete] V/t
+@sense V/t to complete, perfect, to be in working order (of tools)
+@end entry
+
+@entry šu e₃ [frigthen] V/t
+@sense V/t to terrify, to frighten
+@end entry
+
+@entry šu gid₂ [examine] V/t
+@sense V/t to examine (extispicy)
+@end entry
+
+@entry šu ŋal [to hold in hand] V/t
+@sense V/t to hold in hand
+@end entry
+
+@entry šu gi [repay] V/t
+@sense V/t to repay, to return something to someone, settle an account
+@end entry
+
+@entry šu luh [clean] V/t
+@sense V/t to pardon
+@end entry
+
+@entry šu peš [expand] V/t
+@sense V/t to expand
+@end entry
+
+@entry šu tag [decorate] V/t
+@sense V/t decorate
+@end entry
+
+@entry šu te [accept] V/t
+@sense V/t accept
+@end entry
+
+@entry šu ur [erase] V/t
+@sense V/t to drag the hand on something or to wipe out something with the hand
+@end entry
+
+@entry šub [fall] V/t
+@sense V/t fall, to throw
+@sense V/t erect (a reed hut) 
+@end entry
+
+@entry šub [rush] N
+@sense N rush, sedge
+@end entry
+
+@entry šuba [multicoloured] V/i
+@sense V/i multicoloured
+@end entry
+
+@entry šud [prayer] N
+@sense N prayer, dedication, blessing
+@end entry
+
+@entry šud ra [pray] V/t
+@sense V/t to pray to someone
+@end entry
+
+@entry šudul [yoke] N
+@sense N yoke
+@end entry
+
+@entry šuʾi [barber] N
+@sense N barber
+@end entry
+
+@entry šuʾila [prayer] N
+@sense N a kind of prayer
+@end entry
+
+@entry šukara [tool] N
+@sense N tool, implement, utensil
+@end entry
+
+@entry šukur [ration] N
+@sense N ration, subsistance allotment/field
+@end entry
+
+@entry šuluh [cleansing] N
+@sense N ritual cleansing
+@end entry
+
+@entry šum [garlic] N
+@sense N garlic, onion
+@end entry
+
+@entry šum [give] V/t
+@sense V/t give
+@end entry
+
+@entry šunir [emblem] N
+@sense N emblem
+@end entry
+
+@entry šurmen [cypress] N
+@sense N cypress
+@end entry
+
+@entry šuš [cover] V/t
+@sense V/t cover, to spread over 
+@end entry
+
+@entry šuš [official] N
+@sense N a high official, equerry?, groom?
+@end entry
+
+@entry šutug [reed-hut] N
+@sense N reed-hut, reed shelter
+@end entry
+
+@entry šutum [storehouse] N
+@sense N storehouse
+@end entry
+
+@entry šutur [garment] N
+@sense N a garment
+@end entry
+
+@letter T
+
+@entry tab [double] V/t
+@sense V/t double, to repeat
+@end entry
+
+@entry tag [touch] V/t
+@sense V/t touch
+@end entry
+
+@entry tah [add] V/t
+@sense V/t add
+@end entry
+
+@entry taka [abandon] V/t
+@sense V/t set aside, abandon
+@end entry
+
+@entry taka [cvve] V/t
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry tam [clean] V/t
+@sense V/t (to be) bright, (to be) pure, to purify, (to be) clean
+@end entry
+
+@entry tam [constant] V/i
+@sense V/i (to be) constant, (to be) regular, (to be) permanent
+@end entry
+
+@entry tamšilum [image] N
+@sense N image, likeness
+@end entry
+
+@entry tar [cut] V/t
+@sense V/t cut
+@end entry
+
+@entry taškarin [boxwood] N
+@sense N box tree, boxwood
+@end entry
+
+@entry te [approach] V/i
+@sense V/i (to be) near to, to approach
+@sense V/t bring near
+@end entry 
+
+@entry temen [foundation] N
+@sense N foundation, foundation peg
+@end entry
+
+@entry teppir [scribe] N
+@sense N scribe, chancellor (title of a juridical or administrative official in Elam)
+@end entry
+
+@entry teš [unity] N
+@sense N unity
+@end entry
+
+@entry ti [arrow] N
+@sense N arrow
+@end entry 
+
+@entry tigi [instrument] N
+@sense N drum or other musical instrument
+@sense N type of song
+@end entry 
+
+@entry til [complete] V/i
+@sense V/i complete
+@end entry
+
+@entry til [live] V/i
+@sense V/i live
+@end entry
+
+@entry tilla [street] N
+@sense N street
+@end entry
+
+@entry tiʾuz [bird] N
+@sense N bird
+@end entry
+
+@entry tir [forest] N
+@sense N forest
+@end entry
+
+# sjt -- added tu entry; check morph
+@entry tu [cvve] V/t
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry tug [textile] N
+@sense N textile, garment
+@end entry
+
+@entry tuku [acquire] V/t
+@sense V/t to acquire, to have
+@end entry
+
+@entry tukul [weapon] N
+@sense N weapon
+@end entry
+
+@entry tukumbi [if] CNJ
+@sense CNJ if
+@end entry
+
+@entry tukum [if] CNJ
+@sense CNJ if
+@end entry
+
+@entry tulubum [tree] N
+@sense N Oriental plane tree
+@end entry
+
+@entry tum [lead] V/t
+@sense V/t to lead
+@end entry
+
+@entry tum [suitable] V/i
+@sense V/i (to be) suitable, worthy
+@end entry
+
+@entry tum [dove] N
+@sense N wild dove
+@end entry
+
+@entry tumu [wind] N
+@sense N wind
+@end entry
+
+@entry tun [ax] N
+@sense N ax, adze
+@end entry
+
+@entry tunla [vessel] N
+@sense N vessel
+@end entry
+
+@entry tur [small] V/i
+@sense V/i (to be) small
+@end entry
+
+@entry tur [stall] N
+@sense N animal stall
+@end entry
+
+@entry tuš [sit] V/i
+@sense V/i to sit (down)
+@end entry
+
+@letter U
+
+@entry u [admiration] N
+@sense N admiration
+@end entry
+
+@entry u [and] CNJ
+@sense CNJ and, but, also
+@end entry
+
+@entry u [ewe] N
+@sense N ewe
+@end entry
+
+@entry u [plants] N
+@sense N bread, loaf, food, grass, herb, pasture, plant(s)
+@end entry
+
+@entry u [sleep] N
+@sense N sleep
+@end entry
+
+@entry ua [provisioner] N
+@sense N provisioner, provider
+@end entry
+
+@entry UAŠ [garment] N
+@sense N a garment
+@end entry
+
+@entry ub [corner] N
+@sense N corner
+@end entry
+
+@entry ubur [breast] N
+@sense N breast
+@end entry
+
+@entry ud [storm] N
+@sense N storm
+@end entry
+
+@entry ud [sun] N
+@sense N day, sun
+@end entry
+
+@entry udurduruna [hay] N
+@sense N hay
+@end entry
+
+@entry udsa [midday] N
+@sense N midday
+@end entry
+
+@entry udu [sheep] N
+@sense N sheep
+@end entry
+
+@entry udul [herdsman] N
+@sense N chief herdsman
+@end entry
+
+@entry ugnim [army] N
+@sense N army, troops
+@end entry
+
+@entry ugu [cvne] N
+@sense N (compound verb nominal element)
+@end entry
+
+@entry ugu [bear] V/t
+@sense V/t bear
+@end entry
+
+@entry ugu [skull] N
+@sense N top, upper part
+@end entry
+
+@entry ugu de [disappear] V/t
+@sense V/t disappear
+@end entry
+
+@entry ugula [overseer] N
+@sense N overseer
+@end entry
+
+@entry ugulaʾek [overseer] N
+@sense N overseer, estate-overseer, steward
+@end entry
+
+@entry uŋ [people] N
+@sense N people
+@end entry
+
+@entry ukur [poor] V/i
+@sense V/i (to be) poor, pauper
+@end entry
+
+@entry ukuš [cucumber] N
+@sense N cucumber
+@end entry
+
+@entry ul [distant] V/i
+@sense N distant time
+@end entry
+
+@entry ul [fruit] N
+@sense N fruit
+@end entry
+
+@entry ul [unit] N
+@sense N a pre-sargonic unit of capacity used in Lagaš
+@end entry
+
+@entry ulhe [firmament] N
+@sense N firmament, vault of the sky
+@end entry
+
+@entry UN.gal [ruler] N
+@sense N ruler 
+@end entry
+
+@entry umu [storage] N
+@sense N a place for storing fish
+@end entry
+
+@entry unir [ziggurat] N
+@sense N ziggurat
+@end entry
+
+@entry unken [assembly] N
+@sense N assembly
+@end entry
+
+@entry unu [dwelling] N
+@sense N dwelling
+@end entry
+
+@entry unud [cowherd] N
+@sense N cowherd
+@end entry
+
+@entry ur [bake] V/t 
+@sense V/t bake (bricks, bread, etc.)
+@end entry
+
+@entry ul [hasten] V/i
+@sense V/i to hasten, (be) quick, (to be) early
+@end entry
+
+@entry umma [old woman] N
+@sense N old woman
+@end entry
+
+@entry ur [dog] N
+@sense N dog, lion
+@end entry
+
+@entry ur [drag] V/t
+@sense V/t to drag
+@inote sjt--added bi₂-in-uru₁₂-a\v11sg3p
+@end entry
+
+@entry ur [convulsed] V/i
+@sense V/i to be convulsed
+@end entry
+
+@entry ur [he] IP
+@sense IP he, it
+@end entry
+
+@entry ur [servant] N
+@sense N servant, devotee
+@sense N supporter
+@end entry
+
+@entry ur [root] N
+@sense N root
+@sense N lap
+@end entry
+
+@entry urgir [dog] N
+@sense N domestic dog
+@end entry
+
+@entry urin [standard] N
+@sense N standard
+@end entry
+
+@entry urpada [unmng] N
+@sense N (unknown meaning)
+@end entry
+
+@entry urra [loan] N
+@sense N interest-bearing loan
+@end entry
+
+@entry ursaŋ [hero] N
+@sense N hero, warrior
+@end entry
+
+@entry uru [sow] V/t
+@sense V/t sow, to cultivate
+@end entry
+
+@entry urud [copper] N
+@sense N copper
+@end entry
+
+@entry uruh [priest] N
+@sense N priest performing funerary rites
+@end entry
+
+@entry urum [property] N
+@sense N property
+@end entry
+
+@entry urun [exalted] V/i
+@sense V/i exalted, mighty
+@end entry
+
+@entry us [follow] V/i
+@sense V/i follow, to be next
+@end entry
+
+@entry usag [sleep] N
+@sense N sleep
+@end entry
+
+@entry usakar [moon] N
+@sense N crescent moon, moon
+@end entry
+
+@entry usal [meadow] N
+@sense N meadow, pasture
+@end entry
+
+@entry usan [evening] N
+@sense N evening
+@end entry
+
+@entry usan [whip] N
+@sense N whip
+@end entry
+
+@entry ussu [eight] NU
+@sense NU eight
+@end entry
+
+@entry usuh [tree] N
+@sense N a tree
+@end entry
+
+
+@entry uš [die] V/i
+@sense V/i die, to be dead
+@sense V/t kill
+@end entry
+
+@entry uš [foundation] N
+@sense N foundation
+@end entry
+
+@entry uš [poison] N
+@sense N poison
+@end entry
+
+@entry ušim [greenery] N
+@sense N poison
+@end entry
+
+@entry ušub [brick-mold] N
+@sense N brick-mold
+@end entry
+
+@entry ušumgal [dragon] N
+@sense N great dragon, snake
+@end entry
+
+@entry utud [bear] V/t
+@sense V/t bear
+@sense V/t fashion a statue, to bring a statue into being
+@end entry
+
+@entry utuʾe [sunrise] N
+@sense N sunrise, the East
+@end entry
+
+@entry utušuš [sunset] N
+@sense N sunset, the West
+@end entry
+
+@entry uzud [goat] N
+@sense N goat
+@end entry
+
+@letter Y
+
+@entry ya [five] NU
+@sense NU five
+@end entry
+
+@letter Z
+
+@entry za [bead] N
+@sense N bead
+@end entry
+
+@entry za [cvve] V/i
+@sense V/i (compound verb verbal element)
+@end entry
+
+
+@entry zaʾe [I] IP
+@sense IP you
+@end entry
+
+@entry zabalum [juniper] N
+@sense N juniper
+@end entry
+
+@entry zabar [bronze] N
+@sense N bronze
+@end entry
+
+@entry zabardab [official] N
+@sense N an official
+@end entry
+
+@entry zadim [stone-cutter] N
+@sense N stone-cutter
+@end entry
+
+@entry zag [side] N
+@sense N side
+@end entry
+
+@entry zag ša [rival] V/t
+@sense V/t rival
+@end entry
+
+@entry zage [foremost] N
+@sense N foremost
+@sense N outer corner, corner pillar, projection
+@sense N a type of wall
+@end entry
+
+@entry zagin [lapis] N
+@sense N lapis lazuli
+@end entry
+
+@entry zagmuk [new year] N
+@sense N new year
+@end entry
+
+@entry zah [disappear] V/i
+@sense V/i to disappear, to move away, withdraw, to stay away, (to be) lost, (to be) fugitive
+@end entry
+
+@entry zahum [basin] N
+@sense N a metal basin
+@end entry
+
+@entry zal [pass] V/i
+@sense V/i to pass time
+@end entry
+
+@entry zalag [shine] V/i
+@sense V/i (to be) pure, (fire) light, (to be) bright, to shine
+@end entry
+
+@entry zamin [lyre] N
+@sense N praise, lyre
+@end entry
+
+@entry zapah [span] N
+@sense N span, half-cubit
+@end entry
+
+@entry ze [gall bladder] N
+@sense N gall bladder, bile
+@end entry
+
+@entry zi [life] N
+@sense N life
+@end entry
+
+@entry zid [right] V/i
+@sense V/i right
+@sense V/i fecund, healthy, fertile
+@sense V/i favourable
+@end entry
+
+@entry zid [flour] N
+@sense N flour
+@end entry
+
+@entry ziddubdub [flour heap] N
+@sense N flour heap
+@end entry
+
+@entry zig [rise] V/i
+@sense V/i rise
+@sense V/t raise
+@sense V/t remove
+@sense V/t levy, muster
+@end entry
+
+@entry zipaŋ [breath] N
+@sense N breath
+@end entry
+
+@entry zipah [unit] N
+@sense N a unit of length, hand-span, half-cubit
+@end entry
+
+@entry zir [break] V/t
+@sense V/t break
+@end entry
+
+@entry zirru [priestess] N
+@sense N priestess
+@end entry
+
+@entry zišagŋal [encouragement] N
+@sense N encouragement
+@end entry
+
+@entry zu [know] V/t
+@sense V/t know
+@end entry
+
+@entry zu [tooth] N
+@sense N tooth
+@end entry
+
+@entry zu gub [eat] V/t
+@sense V/t to eat
+@end entry
+
+@entry zu kešed [assemble] V/t
+@sense V/t to assemble
+@end entry
+
+@entry zukešed [troop] N
+@sense N troop
+@end entry
+
+@entry zuh [steal] V/t
+@sense V/t to steal
+@end entry
+
+@entry zulum [date] N
+@sense N date
+@end entry
