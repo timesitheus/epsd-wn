@@ -2,9 +2,7 @@
 @lang sux
 @name etcsri, sux
 
-#inote this is testing something
-#inote this is testing it some more
-#inote not quite working how I want it to
+
 
 @letter A
 
